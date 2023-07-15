@@ -3,7 +3,7 @@
 <!-- status github -->
 <div>
   <a href="https://github.com/jvitorsnts">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jvitorsnts&theme=dark&include_all_commits=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jvitorsnts&theme=dark&count_private=true">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorsnts&theme=dark&layout=compact">
 </div>
 
