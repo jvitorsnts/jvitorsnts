@@ -1,10 +1,10 @@
-<h1>Sejam bem-vindos 😁! Me chamo João Vitor dos Santos</h1>
+## Sejam bem-vindos 😁! Me chamo João Vitor dos Santos
 
 <!-- status github -->
 <div>
   <a href="https://github.com/jvitorsnts">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jvitorsnts&theme=dark&count_private=true">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorsnts&theme=dark&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvitorsnts&theme=dracula&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorsnts&theme=dracula&layout=compact">
 </div>
 
 <!-- bagdes linguagens de programação -->
@@ -16,7 +16,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-<hr>
+##
 
 <!-- links importantes -->
 <div>
@@ -27,5 +27,3 @@
   <a href="https://www.youtube.com/channel/UCwRdtq5e8Edb4UTOt0Rs83Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/coaludo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/jvitorsnts/jvitorsnts/blob/output/github-contribution-grid-snake.svg)
